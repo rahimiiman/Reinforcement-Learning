@@ -1,4 +1,6 @@
-This notebook is designed to solve CartPole environment using Deep Q learning(DQN).
+This notebook is designed to solve CartPole environment using Deep Q learning(DQN)
+
+if you want to find some description about DQN RL , you may find a pdf file in basic DQN folder
 
 Structure of code is same as basic DQN code already provided however in this code we used Ignite framework for training loops.
 
