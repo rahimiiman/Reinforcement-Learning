@@ -1,6 +1,6 @@
 at this repository you may find Reinforcement Learning Algorithm codes.
 
-I have tried to fall codes in different categories based on their technical and mathematic foundation. 
+I have tried to classify codes in different categories based on their technical and mathematic foundation. 
 
 Overal, we can find 4 different types of RL algorithms and I also provided 4 different folders for each one.
 
